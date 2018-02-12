@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "node-supervisor index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {
+    "supervisor": "^0.12.0"
+  }
+}
